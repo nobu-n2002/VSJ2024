@@ -13,10 +13,12 @@
 <div style="display: flex; justify-content: center;">
     <img src="pic/readme01.png" alt="Image 1">
 </div>
+
 2. Open in Colaboをクリック
 <div style="display: flex; justify-content: center;">
     <img src="pic/readme02.png" alt="Image 1">
 </div>
+
 3. Colabo Note内の説明に従って実行していく
 
 ## 実行例
