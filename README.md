@@ -7,7 +7,13 @@
 ## 使い方
 
 1. `PixelFlow_VSJ2024.ipynb`をクリック
+<div style="display: flex; flex-direction: row;">
+    <img src="pic/readme01.png" alt="Image 1">
+</div>
 2. Open in Colaboをクリック
+<div style="display: flex; flex-direction: row;">
+    <img src="pic/readme02.png" alt="Image 1">
+</div>
 3. Colabo Note内の説明に従って実行していく
 
 ## 実行例
