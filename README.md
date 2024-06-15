@@ -1,4 +1,7 @@
 # PixelFlow－画像から直接駆動される流体シミュレーション－
+<div style="display: flex; justify-content: center;">
+    <img src="pic/readme03.png" alt="Image 1">
+</div>
 
 ## 概要
 
@@ -7,11 +10,11 @@
 ## 使い方
 
 1. `PixelFlow_VSJ2024.ipynb`をクリック
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; justify-content: center;">
     <img src="pic/readme01.png" alt="Image 1">
 </div>
 2. Open in Colaboをクリック
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; justify-content: center;">
     <img src="pic/readme02.png" alt="Image 1">
 </div>
 3. Colabo Note内の説明に従って実行していく
@@ -20,6 +23,6 @@
 
 RGB画像を入力として，余白の追加やグレースケール化，しきいち処理などを行い，境界を拡散フィルタにより滑らかにする．得られた分布を直接パラメータとして流体ソルバーで読み込むことにより流れ計算が実行できる．
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; justify-content: center;">
     <img src="pic/ex01.png" alt="Image 1">
 </div>
