@@ -28,3 +28,7 @@ RGB画像を入力として，余白の追加やグレースケール化，し�
 <div style="display: flex; justify-content: center;">
     <img src="pic/ex01.png" alt="Image 1">
 </div>
+
+## 実行の様子
+
+実行の様子は[コチラ](https://www.youtube.com/watch?v=3wAnzVv3cxc)
